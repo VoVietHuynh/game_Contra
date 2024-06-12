@@ -21,25 +21,25 @@
 		<Sprite id="18_rifleman_appear_2" x="642" y="277"  w="24" h="39" />
 		<Sprite id="19_ScubaSoldier_" x="572" y="189"  w="16" h="32"/>
 		<Sprite id="20_ScubaSoldier_attack" x="590" y="189"  w="16" h="32"/>
-		<Sprite id="21_tank_left_đậm" x="129" y="260"  w="32" h="32"/>
+		<Sprite id="21_tank_left_đậm" x="129" y="260"  w="32" h="32" sx="16"  sy="16"/>
 		<Sprite id="22_tank_left_vừa" x="163" y="260"  w="32" h="32"/>
 		<Sprite id="23_tank_left_nhạt" x="197" y="260"  w="32" h="32"/>
-		<Sprite id="24_tank_cross_up_đậm" x="129" y="226"  w="32" h="32"/>
+		<Sprite id="24_tank_cross_up_đậm" x="129" y="226"  w="32" h="32" sx="16"  sy="24"/>
 		<Sprite id="25_tank_cross_up_vừa" x="163" y="226"  w="32" h="32"/>
 		<Sprite id="26_tank_cross_up_nhạt" x="197" y="226"  w="32" h="32"/>
-		<Sprite id="27_tank_cross_up_High_đậm" x="129" y="192"  w="32" h="32"/>
+		<Sprite id="27_tank_cross_up_High_đậm" x="129" y="192"  w="32" h="32" sx="16"  sy="24"/>
 		<Sprite id="28_tank_cross_up_High_vừa" x="163" y="192"  w="32" h="32"/>
-		<Sprite id="29_tank_cross_up_High_nhạt" x="197" y="192"  w="32" h="32"/>
+		<Sprite id="29_tank_cross_up_High_nhạt" x="197" y="192"  w="32" h="32" sx="16"  sy="8"/>
 		<Sprite id="30_tank_cross_down_đậm" x="129" y="294"  w="32" h="32"/>
 		<Sprite id="31_tank_cross_down_vừa" x="163" y="294"  w="32" h="32"/>
 		<Sprite id="32_tank_cross_down_nhạt" x="197" y="294"  w="32" h="32"/>
 		<Sprite id="33_tank_cross_down_low_đậm" x="129" y="328"  w="32" h="32"/>
 		<Sprite id="34_tank_cross_down_low_vừa" x="163" y="328"  w="32" h="32"/>
 		<Sprite id="35_tank_cross_down_low_nhạt" x="197" y="328"  w="32" h="32"/>
-		<Sprite id="36_tank_up_đậm" x="231" y="192"  w="32" h="32"/>
+		<Sprite id="36_tank_up_đậm" x="231" y="192"  w="32" h="32" sx="0"  sy="31"/>
 		<Sprite id="37_tank_up_vừa" x="265" y="192"  w="32" h="32"/>
 		<Sprite id="38_tank_up_nhạt" x="299" y="192"  w="32" h="32"/>
-		<Sprite id="39_tank_down_đậm" x="231" y="294"  w="32" h="32"/>
+		<Sprite id="39_tank_down_đậm" x="231" y="294"  w="32" h="32" sx="0"  sy="0"/>
 		<Sprite id="40_tank_down_vừa" x="265" y="294"  w="32" h="32"/>
 		<Sprite id="41_tank_down_nhạt" x="299" y="294"  w="32" h="32"/>
 		<Sprite id="42_tank_close_đậm" x="231" y="260"  w="32" h="32"/>

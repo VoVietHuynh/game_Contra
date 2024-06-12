@@ -135,7 +135,7 @@ void SceneManager::Update(float gameTime, Keyboard* key)
 
 			sceneType = Play;
 			Player::GetInstance()->_life = StartLive;
-			//Player::GetInstance()->Init();
+			/*Player::GetInstance()->Init();*/
 		}
 		break;
 	case SceneManager::Play:
