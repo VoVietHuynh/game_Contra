@@ -33,7 +33,7 @@ namespace Define
 
 		//Map
 	const char TileSetPNG[] = "./Resource Files/TitleSetMap1.png";
-	const char MapXML1[] = "./Resource Files/Map3_.tmx";
+	const char MapXML1[] = "./Resource Files/Map1.tmx";
 	const char MapXML3[] = "./Resource Files/Map3_.tmx";
 
 		

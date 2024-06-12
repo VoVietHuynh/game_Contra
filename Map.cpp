@@ -12,7 +12,7 @@ Map::Map(int level)
 	else
 		info = new InfoMap(MapXML3);
 
-	this->tileset = new TileSet(info->tileCount, info->tileColumns, info->tileWidth, info->tileHeight);
+	this->tileset = new TileSet(info->tileCount, info->tileColumns, info->tileWidth, info->tileHeight, level);
 	position = D3DXVECTOR2(0, 0);
 	WidthMap = info->width * info->tileWidth;
 	HeightMap = info->height * info->tileHeight;

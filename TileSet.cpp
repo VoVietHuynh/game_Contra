@@ -3,7 +3,7 @@
 TileSet::TileSet()
 {
 }
-TileSet::TileSet(int tilecount, int tilecolunm, float widthtile, float heighttile)
+TileSet::TileSet(int tilecount, int tilecolunm, float widthtile, float heighttile, int level)
 {
 	TileCount = tilecount;
 
@@ -11,7 +11,11 @@ TileSet::TileSet(int tilecount, int tilecolunm, float widthtile, float heighttil
 	HeightTile = heighttile;
 	TileColunms = tilecolunm;
 
-	sprite = new Sprite(TileSetPNG);
+	if (level == 1)
+		sprite = new Sprite(TileSetPNG);
+	else
+		sprite = new Sprite("./Resource Files/titleSetMap3.png");
+
 	for (int i = 0; i < TileCount; i++)
 	{	
 		rect_tile[i].left = ((i % TileColunms)*WidthTile);

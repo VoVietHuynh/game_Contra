@@ -51,7 +51,7 @@
 		<Sprite id="48_cannon_left_nhạt" x="123" y="364"  w="32" h="32"/>
 		<Sprite id="49_cannon_left_vừa" x="157" y="364"  w="32" h="32"/>
 		<Sprite id="50_cannon_left_đậm" x="191" y="364"  w="32" h="32"/>
-		<Sprite id="51_cannon_cross_nhạt" x="225" y="364"  w="32" h="32" />
+		<Sprite id="51_cannon_cross_nhạt" x="225" y="364"  w="32" h="32" sx="16"  sy="8" />
 		<Sprite id="52_cannon_cross_vừa" x="259" y="364"  w="32" h="32"/>
 		<Sprite id="53_cannon_cross_đậm" x="293" y="364"  w="32" h="32"/>
 		<Sprite id="54_cannon_cross_high_nhạt" x="327" y="364"  w="32" h="32"/>
@@ -77,7 +77,7 @@
 		<Sprite id="74_Aicraft_Đỏ nhạt" x="650" y="401"  w="24" h="15"/>
 		<Sprite id="75_Aicraft_Đỏ đậm" x="680" y="401"  w="24" h="15"/>
 		<Sprite id="76_Aicraft_xám" x="710" y="401"  w="24" h="15"/>
-		<Sprite id="77_Cannon_animation_đỏ" x="2" y="464"  w="32" h="16"/>
+		<Sprite id="77_Cannon_animation_đỏ" x="2" y="464"  w="32" h="16" sx="16"  sy="8"/>
 		<Sprite id="78_Cannon_animation_cam" x="2" y="496"  w="32" h="16"/>
 		<Sprite id="79_Cannon_animation_da" x="2" y="528"  w="32" h="16"/>
 		<Sprite id="80_Cannon_animation_đỏ" x="34" y="456"  w="32" h="24"/>

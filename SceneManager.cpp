@@ -58,7 +58,10 @@ void SceneManager::Update(float gameTime, Keyboard* key)
 	{
 		Map();
 	}
-
+	if (key->IsKeyDown(DIK_2))
+	{
+		Map(3);
+	}
 	RECT rect;
 	rect.left = sceneType * GameWidth;
 	rect.top = 0;
