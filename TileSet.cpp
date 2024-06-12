@@ -12,9 +12,9 @@ TileSet::TileSet(int tilecount, int tilecolunm, float widthtile, float heighttil
 	TileColunms = tilecolunm;
 
 	if (level == 1)
-		sprite = new Sprite(TileSetPNG);
+		sprite = new Sprite(TileSetPNG1);
 	else
-		sprite = new Sprite("./Resource Files/titleSetMap3.png");
+		sprite = new Sprite(TileSetPNG3);
 
 	for (int i = 0; i < TileCount; i++)
 	{	

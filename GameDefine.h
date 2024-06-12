@@ -32,7 +32,8 @@ namespace Define
 	const char ItemXML[] = "./Resource Files/items_info.xml";
 
 		//Map
-	const char TileSetPNG[] = "./Resource Files/TitleSetMap1.png";
+	const char TileSetPNG1[] = "./Resource Files/TitleSetMap1.png";
+	const char TileSetPNG3[] = "./Resource Files/TitleSetMap3.png";
 	const char MapXML1[] = "./Resource Files/Map1.tmx";
 	const char MapXML3[] = "./Resource Files/Map3_.tmx";
 
